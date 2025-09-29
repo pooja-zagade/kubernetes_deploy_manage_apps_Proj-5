@@ -47,7 +47,7 @@ nginx-deployment-96b9d695-zj796   1/1     Running            0          22s
 # kubectl describe pod nginx-deployment-96b9d695-6mcld
 # kubectl logs nginx-deployment-96b9d695-6mcld
 
-Output Screenshot:
+Output Screenshots:
 --
 
 
